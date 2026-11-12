@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "name": "Privacy Shield Plugins",
+  "description": "Local privacy and anti-phishing guards for AyuGram/exteraGram.",
+  "author": "va1elon",
+  "plugins": [
+    {
+      "id": "privacy_shield",
+      "name": "Privacy Shield | Anti-Dox",
+      "description": "Локальные блокировки опасных отправок, геоданных и контактов; предупреждения о фишинге и угрозах.",
+      "author": "va1elon",
+      "version": "1.0.0",
+      "icon": "exteraPlugins/1",
+      "app_version": ">=12.5.1",
+      "sdk_version": ">=1.4.4.3",
+      "category": [
+        "privacy",
+        "tools"
+      ],
+      "file": "privacy_shield.plugin",
+      "sha256": "c5c974cc98b05134e19c5d2a4504aa8d144921450867d111cb420c4464b2d09f",
+      "size": 16981,
+      "updated_at": "2026-11-12T08:54:26+00:00"
+    }
+  ]
+}
